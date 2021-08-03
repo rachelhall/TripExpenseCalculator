@@ -6,8 +6,11 @@
 }
 
 body {
-  background-image: url("./background.png");
-  background-size: cover;
+  background: linear-gradient(
+    90deg,
+    rgba(212, 51, 105, 1) 0%,
+    rgba(217, 172, 81, 1) 100%
+  );
 }
 
 /* Header */
